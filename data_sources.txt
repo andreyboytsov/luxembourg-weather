@@ -1,3 +1,5 @@
+Dataset 0: list of countries in Europe (https://www.worldometers.info/geography/how-many-countries-in-europe/)
+
 https://data.worldbank.org/indicator/AG.LND.PRCP.MM - percipitation per country per year.
 
 https://theglobaleconomy.com - same data over each year (turns out, long-term averages)
@@ -7,3 +9,5 @@ Dataset 1: Food and Agricultural Organization of the United Nations
 http://www.fao.org/nr/water/aquastat/data/query/results.html?regionQuery=true&yearGrouping=SURVEY&yearRange.fromYear=1960&yearRange.toYear=2015&varGrpIds=4151&regIds=9805,9806,9807,9808,9809&includeRegions=true&showValueYears=true&categoryIds=-1&XAxis=YEAR&showSymbols=true&showUnits=true&hideEmptyRowsColoumns=true&_hideEmptyRowsColoumns=on&lang=en&query_type=glossary
 I used the version extracted by https://theglobaleconomy.com
 World bank provides, essentially, the same data (I assume, from the same source). 
+
+
